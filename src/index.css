@@ -1,0 +1,13 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  /* Use 'Titillium Web' as the font family */
+}
+
+h1, h2, h3, p, input, button {
+  font-family: inherit;
+  /* Inherits the font family from the parent element (body in this case) */
+}
+
